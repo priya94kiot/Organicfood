@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.whole {
+/* height: 100vh; */
+background-image:url('./back.jpje.webp') ;
+background-size: cover;
+filter: brightness(80%);
+}
+.home{
+    background-color: antiquewhite;
+    color: black;
+    background-image: url('./back1.jpje.avif');
+    background-size:cover ;
+    height: 100vh;
+}
